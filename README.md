@@ -1,4 +1,4 @@
-t# M.Tech Project – Statistical Modelling & Python
+# M.Tech Project – Statistical Modelling & Python
 
 ## Overview
 This repository contains the code and documentation for my M.Tech project on **Statistical Modelling** and **Python**. The project was supervised by **Prof. Atul Narang** (DBEB, IIT Delhi). The primary goal was to develop a statistical framework for **bioreactor data validation** using **elemental balance equations**, **regression analysis**, and **error propagation methods**. This work was awarded the **IIT Delhi BOSS Award** for **Best M.Tech Project** in 2022.
